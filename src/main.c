@@ -202,7 +202,6 @@ int main() {
 
     SCALE = 5e9;
     srand(time(0));
-    printf("Random Number: %f\n", (rand()%2000 - 1000) / 100.0);
     
     ratio = radius * 5.0;
 
